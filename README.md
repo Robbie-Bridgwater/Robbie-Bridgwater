@@ -1,1 +1,1 @@
-![Alt Text](./gif.gif  {width=100% height=100%px})
+<img src="./gif.gif" width="100%" height="auto"/>
